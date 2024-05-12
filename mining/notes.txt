@@ -1,0 +1,2 @@
+Bitcoin Mining with Edge TPU:
+AXE- Bitcoin Mining with Bitaxe ESP32 and Edge TPU 
